@@ -29,3 +29,4 @@ mini_1 = Mini('Mini cars', 2019, 'Smart EQ ForTwo Coupe', 'silver color', 'weigh
 
 print(mini_1.class_assignment_Mini())
 print(mini_1.class_assignment_Mini())
+print(mini_1.class_assignment_Mini())
